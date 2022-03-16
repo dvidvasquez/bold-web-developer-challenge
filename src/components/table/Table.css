@@ -1,0 +1,5 @@
+.table-header{
+    background: linear-gradient(to right,#111e6c 0%,#ef434e 200%);
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}

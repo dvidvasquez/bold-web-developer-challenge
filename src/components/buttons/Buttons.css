@@ -1,0 +1,19 @@
+.btn-content{
+    background-color: #fff;
+}
+
+.btn-custom-style{
+    background-color: transparent;
+    color: #111e6c;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 50px;
+    height: 30px;
+    transition: all .2s ease-in-out;
+}
+
+.btn-active{
+    background-color: #96969652;
+   font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    background: linear-gradient(to right,#111e6c 0%,#ef434e 200%);
+}
+
+.logo{
+    width: 100px;
+}
+
+a{
+    color: #fff;
+}

@@ -1,0 +1,24 @@
+.card{
+    border-radius: 20px;
+}
+
+.total-header{
+    background: linear-gradient(to right,#111e6c -90%,#ef434e 180%);
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+.total-title{
+    color: #fff;
+}
+
+.total-price{
+    font-size: 72px;
+    background:linear-gradient(to right,#111e6c -90%,#ef434e 180%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}   
+
+.small-text{
+    color: #111e6c;
+}
