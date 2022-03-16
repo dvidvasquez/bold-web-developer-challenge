@@ -1,6 +1,11 @@
 ## Scripts
 
+
 En el directorio del proyecto, puede ejecutar:
+
+### `npm install`
+
+Instala las dependencias que necesita la aplicación para funcionar
 
 ### `npm start`
 
